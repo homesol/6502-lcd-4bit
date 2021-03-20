@@ -9,8 +9,8 @@ Software:
 The assembly code is profusly commented, largely to remind me what I did.
 The delay functions are detailed in the spreadsheet with the reference to the original creators, the formula's used, and the spreadsheet is set up to calculate the delay that I needed.
 
-![test](https://github.com/homesol/6502-lcd-4bit/blob/main/Images/ 6502-lcd-4bit/images/PXL_20210319_171833644.jpg)
+![test](https://github.com/homesol/6502-lcd-4bit/images/PXL_20210319_171833644.jpg)
 
-![test](https://github.com/homesol/6502-lcd-4bit/blob/main/Images/ 6502-lcd-4bit/images/PXL_20210319_171838866.jpg)
+![test](https://github.com/homesol/6502-lcd-4bit/images/PXL_20210319_171838866.jpg)
 
 
