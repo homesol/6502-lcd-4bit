@@ -5,7 +5,7 @@ This project is based on [Ben Eaters 6502 kit](https://eater.net/6502), and carr
 # Hardware:
 The pin rewiring is documneted at the top of the code, and in these images:
 
-## ![test](https://github.com/homesol/6502-lcd-4bit/blob/main/images/)
+## ![test](https://github.com/homesol/6502-lcd-4bit/blob/main/images/6502-4bit.png)
 
 ## ![test](https://github.com/homesol/6502-lcd-4bit/blob/main/images/PXL_20210319_171833644.jpg)
 
